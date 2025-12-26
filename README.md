@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the salary dataset from the CSV file and select the level as input feature and salary as target variable.
+2. Train a Decision Tree Regressor using the given dataset.
+3. Predict salaries for existing levels and for a new employee level.
+4. Visualize the relationship between level and salary using the trained model.
 
 ## Program:
 ```
